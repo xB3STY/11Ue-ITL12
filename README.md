@@ -13,3 +13,4 @@
 - **file_hash:** Für den Freigabelink (showImage/<hash>)
 
 - **is_shared:** 0 = privat, 1 = freigegeben
+---
