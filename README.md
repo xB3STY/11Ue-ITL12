@@ -20,4 +20,12 @@ Bilder hinzufügen(freigeben)
 <img width="1552" alt="Bildschirmfoto 2025-01-23 um 12 08 45" src="https://github.com/user-attachments/assets/0636ae2d-3502-44cf-9e89-b50d1dd7659d" />
 <img width="1552" alt="Bildschirmfoto 2025-01-23 um 12 09 11" src="https://github.com/user-attachments/assets/3d5d8cc1-07ca-44c2-a239-a6ce36eaffa8" />
 
-**Neue Funktion - Lösch Funktion**
+**Neue Funktion: - Lösch Funktion + Neu angepasst**
+![image](https://github.com/user-attachments/assets/78ad82eb-022a-4f4f-beac-ff34b3d18591)
+
+Wenn wir ein Bild entfernen wollen
+![image](https://github.com/user-attachments/assets/24a9cfbc-e074-4ab6-8a3b-bec2165d42c0)
+Hier ist es, nicht mehr da
+![image](https://github.com/user-attachments/assets/8621f798-fe0f-42f1-ba75-e25be125611e)
+
+
