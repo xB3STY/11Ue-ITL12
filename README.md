@@ -50,3 +50,7 @@ Sieht dann so aus
 In der DB sieht es so aus:
 ![image](https://github.com/user-attachments/assets/0e1d9f3e-ee4a-4e77-ae2d-53f8597a455a)
 
+
+### **Verknüpfte Dateien**
+
+
