@@ -29,3 +29,8 @@ Hier ist es, nicht mehr da
 ![image](https://github.com/user-attachments/assets/8621f798-fe0f-42f1-ba75-e25be125611e)
 
 
+In der DB sieht es so aus:
+![image](https://github.com/user-attachments/assets/b640fe07-0494-482b-8e9d-80e45ca0ad27)
+
+
+
