@@ -52,5 +52,7 @@ In der DB sieht es so aus:
 
 
 ### **Verknüpfte Dateien**
-
-
+- [GalleryModel.php](model/GalleryModel.php)
+- [GalleryControllerr.php](controller/GalleryController.php)
+- [index.php](gallery/index.php)
+- [upload.php](gallery/upload.php)
