@@ -33,4 +33,20 @@ In der DB sieht es so aus:
 ![image](https://github.com/user-attachments/assets/b640fe07-0494-482b-8e9d-80e45ca0ad27)
 
 
+Wenn wir uns zb neu als anderer user anmelden können wir die Bilder von den anderen nicht sehen
+Hier als user: Fruit
+
+![image](https://github.com/user-attachments/assets/58e988fb-0932-463f-bed5-06f409500988)
+
+Und wenn man noch nichts heruntergeladen hat wird es dann so aussehen
+![image](https://github.com/user-attachments/assets/7c972a69-8649-4e96-ad20-36e5d97f8fae)
+
+Hier tun wir die Bilder hochladen und Freigeben (um es sehen zu können)
+![image](https://github.com/user-attachments/assets/125d7451-413a-4a30-a39c-c309b2424b39)
+
+Sieht dann so aus
+![image](https://github.com/user-attachments/assets/282bb056-05c5-4868-bacf-b9a97a66e8ad)
+
+In der DB sieht es so aus:
+![image](https://github.com/user-attachments/assets/0e1d9f3e-ee4a-4e77-ae2d-53f8597a455a)
 
